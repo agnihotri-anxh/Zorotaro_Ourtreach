@@ -10,7 +10,7 @@ source .venv/bin/activate   # on Windows: .venv\Scripts\Activate.ps1
 pip install -r python_outreach/requirements.txt
 ```
 
-2. Ensure required environment variables are set (see `python_outreach/config.py`).
+2. Ensure required environment variables are set (see `config.py`).
 
 3. Run the pipeline:
 
