@@ -1,4 +1,4 @@
-# Python conversion of Zorotaro Outreach
+# Zorotaro Outreach
 
 Quick start
 
