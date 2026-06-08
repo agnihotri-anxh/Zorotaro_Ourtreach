@@ -1,7 +1,5 @@
 # Python conversion of Zorotaro Outreach
 
-This folder contains a Python port of the original Node.js outreach pipeline.
-
 Quick start
 
 1. Create a virtualenv and install dependencies:
